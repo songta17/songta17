@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638477135/rails_j6gizi.png)
+![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487355/rails_mlusox.png) ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487355/ruby_gc9gs2.png)
 
 ### Hi there 👋 Welcome on my Github profil ! 
 
