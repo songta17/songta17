@@ -1,12 +1,16 @@
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487473/rails_izr9jq.png) 
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487355/ruby_gc9gs2.png)
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487473/rspec_owxgzw.png)
-![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/postgresql_ebpcvf.png)
-![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/graphql_dvttqm.png)
+
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/js_ajda3m.png)
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487473/vuejs_ul8frs.png)
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/nuxt_dtw28f.png)
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/jest_tsrmlr.png)
+
+![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/postgresql_ebpcvf.png)
+
+![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/graphql_dvttqm.png)
+
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/docker_dy7tct.png)
 
 ### Hi there 👋 Welcome on my Github profil ! 
