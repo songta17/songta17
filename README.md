@@ -1,3 +1,5 @@
+![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638476665/rails_oviu7f.png)
+
 ### Hi there 👋 Welcome on my Github profil ! 
 
 I'm Vorachith, people call me Kip. Full-Stack Developer working on [Noudone](https://www.noudone.com) web application.
@@ -20,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![alt text](http://url/to/img.png)
+![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638476665/rails_oviu7f.png)
 -->
