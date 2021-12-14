@@ -1,5 +1,5 @@
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487473/rails_izr9jq.png) 
-![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487355/ruby_gc9gs2.png)
+![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487473/ruby_woxkzk.png)
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487473/rspec_owxgzw.png)
 
 ![alt text](https://res.cloudinary.com/dgtxqlmt9/image/upload/v1638487472/js_ajda3m.png)
