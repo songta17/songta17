@@ -17,7 +17,7 @@
 
 I'm Vorachith, people call me Kip. Full-Stack Developer working on [Noudone](https://www.noudone.com) web application.
 
-Because programming is my passion, I will add here some personnal projects soon.
+Because programming is my passion, I will add here some personnal projects.
 
 <!--
 **songta17/songta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
